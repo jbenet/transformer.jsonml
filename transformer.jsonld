@@ -1,0 +1,7 @@
+{
+ "@context": "http://transformer.io/context/transformer.jsonld",
+ "type": "type",
+ "id": "jsonml",
+ "description": "JSONML - JSON Markup Language (XML conversion).",
+ "schema": "string"
+}
